@@ -1,2 +1,2 @@
 # Contacts-App
-Angular js app
+MEAN CRUD example ( mogo, express angular Node ) , Grunt js , Jasmine, Karma
